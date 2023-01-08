@@ -1,5 +1,5 @@
 import './App.css'
-import Machine from '../components/Machine.jsx'
+import Machine from './components/Machine.jsx'
 
 function App() {
 
